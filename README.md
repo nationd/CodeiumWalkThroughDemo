@@ -1,0 +1,2 @@
+# CodeiumWalkThroughDemo
+Exploring codeium AI
